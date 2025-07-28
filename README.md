@@ -29,9 +29,7 @@ Hi, I’m Andhi — a Cloud and DevOps engineer focused on building secure, scal
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andhijeannot&theme=tokyonight&utcOffset=8" width="48%"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/andhijeannot/andhijeannot/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -40,11 +38,18 @@ Hi, I’m Andhi — a Cloud and DevOps engineer focused on building secure, scal
 
 ## ⏱️ WakaTime Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andhijeannot&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@andhijeannot&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Development%20Breakdown" />
+</div>
+
+## 🎯 Current Focus
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,terraform,kubernetes,aws,docker,ansible,bash,python,git,linux&perline=5" />
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 <div align="center">
