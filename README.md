@@ -10,7 +10,7 @@ Hi, I’m Andhi — a Cloud and DevOps engineer focused on building secure, scal
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andhijeannot&theme=catppuccin_mocha&hide_border=false&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=andhijeannot&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andhijeannot&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andhijeannot&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&layout=compact&include_orgs=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=andhijeannot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
